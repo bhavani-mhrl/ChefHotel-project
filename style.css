@@ -1,0 +1,76 @@
+*{
+    margin:0;
+    padding:0;
+    background-color:#071a28;
+     font-family: 'Courier New', Courier, monospace;
+    font-size: 18px;
+    color:white;
+}
+.nav-bar{
+   padding: 20px;
+   background-image: url("https://cdn.codechef.com/download/Contest+images/ANTEST/landing+page.jpg");
+
+}
+.nav-bar h1{
+    text-align: center;
+    font-family: normal;
+    font-size: 80px;
+    background-color: transparent;
+    padding-bottom: 150px;
+}
+.quote {
+    text-align: right;
+font-size: 60px;
+font-family: cursive;
+padding: 5px 20px 5px 0;
+background-color: transparent;
+}
+.msg-para{
+    text-align: right;
+    padding-top: 30px;
+    padding-bottom: 20px;
+    background-color: transparent;
+    margin-left: 30%;
+}
+.msg{
+    text-align:center;
+    padding-top: 100px;
+    padding-bottom: 30px;
+}
+table{
+    border:1px solid red;
+    border-collapse: collapse;
+    width:70%;
+    margin:auto;
+    margin-bottom: 5rem;
+    text-align: center;
+}
+ul{
+    text-align: left;
+    padding-left: 30px;
+}
+.table-head{
+    background-color: red;
+   text-align: left;
+}
+th,td{
+   border:1px solid red;
+   padding: 10px;
+   width:150px
+   
+}
+.img-table{
+    width:200px;
+    height: 100px;
+    object-fit: cover;
+}
+.booking{
+    text-align: center;
+    margin-bottom: 2rem;
+}
+.copy-right p{
+    height: 60px;
+   background-color: #4F2D18;
+   text-align: center;
+   padding-top: 20px;
+}
