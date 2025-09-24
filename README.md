@@ -28,7 +28,7 @@
 
 ## 📌 Preview-3
 
-![Project Preview 3]()
+![Project Preview 3](https://github.com/bhavani-mhrl/ChefHotel-project/blob/fad9608c94af59b5852d4320fad610812ecdc138/Screenshot%202025-09-24%20105930.png)
 
 ---
 
