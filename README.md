@@ -1,7 +1,5 @@
 # 🏨 ChefHotel-project
 
-# 🌐 Syllabus Project
-
 ## 📌 **Overview**
 
 - **Built a Frontend Project with some basic Section**
