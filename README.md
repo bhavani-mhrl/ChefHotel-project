@@ -2,12 +2,18 @@
 
 ## 📌 **Overview**
 
-- **Built a Frontend Project with some basic Section**
+- **This project is a stylish and responsive Chef Hotel-themed landing page built using HTML and CSS, designed to showcase culinary excellence, luxury hospitality, and chef-driven experiences. It serves as a digital front door for a hotel or restaurant brand, combining elegant design with intuitive layout.**
 
+## ✨ **Key Features**
+- Hero section with captivating imagery and Available Rooms
+- Highlighted chef profile and signature dishes
+- Visually appealing layout with modern fonts, color palette, and hover effects
+  
 ## 🔑 Why i have built this!
 
-- **Enhnace-Skills** - Enhance Skills To Improve and Strengthen my Front-end skills
-- **Creative Thinking** - To create User friendly Interactive pages 
+- Demonstrate frontend design skills using semantic HTML and modern CSS
+- Explore layout composition, visual hierarchy, and branding elements
+- Serve as a portfolio piece for showcasing hotel-themed UI design
 
 ---
 
